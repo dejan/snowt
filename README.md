@@ -7,3 +7,7 @@
 ## Run
 
     snow
+
+## Demo
+
+![demo](doc/snow.gif)

@@ -2,7 +2,7 @@
 
 ## Install
 
-    go install github.com/terminism/snow
+    go get github.com/terminism/snow
 
 ## Run
 
